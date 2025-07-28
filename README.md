@@ -1,0 +1,2 @@
+# 7-SEGMENT-PROJECT
+Creating 7-SEGMENT
